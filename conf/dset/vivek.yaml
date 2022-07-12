@@ -1,0 +1,8 @@
+dset:
+  train: egs/vivek/tr
+  valid: egs/61_4446/cv
+  test: egs/61_4446/ts
+  noisy_json: egs/61_4446/tr/noisy.json
+  noisy_dir:
+  matching: sort
+pesq: 1
